@@ -8,5 +8,8 @@ public class MainClass {
 		s.show();
 		
 	}
+	public void display() {
+		System.out.println("display method");
+	}
 
 }
